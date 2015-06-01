@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application19</string>
+
+    <string name="hello_world">잘 왔어욤</string>
+    <string name="action_settings">Settings</string>
+    <string name="name1">espresso test</string>
+    <string name="name2">test click</string>
+    <string name="name3">test progressing...</string>
+</resources>
